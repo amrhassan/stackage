@@ -3096,6 +3096,9 @@ packages:
     
     "Alexis Williams <alexis@typedr.at> @typedrat":
         - stb-image-redux
+    
+    "Amr Hassan <amr.hassan@gmail.com> @amrhassan:
+        - hedgehog-gen-json
 
     # If you stop maintaining a package you can move it here.
     # It will then be disabled if it starts causing problems.
